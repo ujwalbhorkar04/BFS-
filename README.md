@@ -1,5 +1,5 @@
 # BFS-
-this is a breath first search program.
+this is a breatdh first search program.
 
 #include <stdio.h>
 #include <stdlib.h>
